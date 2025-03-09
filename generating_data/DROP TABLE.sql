@@ -1,0 +1,10 @@
+DROP TABLE ratings;
+DROP TABLE enrollments
+DROP TABLE teachers;
+DROP TABLE kindergartens;
+DROP TABLE districts;
+DROP TABLE care_types;
+DROP TABLE children;
+DROP TABLE parents;
+DROP TABLE cities;
+DROP TABLE kindergarten_addresses;

@@ -1,0 +1,13 @@
+delete from care_types;
+DBCC CHECKIDENT ('care_types', RESEED, 0);
+delete from children;
+delete from cities;
+DBCC CHECKIDENT ('cities', RESEED, 0);
+delete from districts;
+DBCC CHECKIDENT ('districts', RESEED, 0);
+delete from enrollments;
+delete from kindergartens;
+delete from parents;
+delete from ratings;
+delete from teachers;
+delete from kindergarten_addresses;
