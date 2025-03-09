@@ -1,0 +1,11 @@
+DELETE FROM Junk;
+DBCC CHECKIDENT ('Junk', RESEED, 0);
+DELETE FROM Child;
+DBCC CHECKIDENT ('Child', RESEED, 0);
+DELETE FROM Teacher;
+DBCC CHECKIDENT ('Teacher', RESEED, 0);
+DELETE FROM Kindergarten;
+DBCC CHECKIDENT ('Kindergarten', RESEED, 0);
+DELETE FROM Teacher_Employment;
+DBCC CHECKIDENT ('Teacher_Employment', RESEED, 0);
+

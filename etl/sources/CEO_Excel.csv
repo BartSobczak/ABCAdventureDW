@@ -1,0 +1,101 @@
+Kindergarten ID,Kindergarten name,District,City,Location price,Toddler age group price,Junior age group price,Preschooler age group price,Full-day care type price,Half-day care type price,Extended care type price,Drop-in care type price
+1,Lively Cuddles,Gorniak,Lodz,2190,2925,2650,2475,5317,4131,6553,4613
+2,Radiant Twinkles,Ursynow,Warszawa,2730,2934,2697,2456,5328,4135,6585,4609
+3,Sweet Friends,Ujescisko-Lostowice,Gdansk,2415,2938,2715,2533,5290,4103,6596,4530
+4,Sunny Cuddles,Grunwald,Poznan,2280,2908,2657,2526,5318,4061,6594,4533
+5,Brave Puddles,Nowa Huta,Krakow,2445,2866,2657,2517,5313,4087,6598,4552
+6,Zany Breezes,Ochota,Warszawa,2835,2892,2735,2532,5321,4116,6606,4622
+7,Clever Daisies,Stare Miasto,Poznan,2295,2930,2715,2503,5330,4134,6588,4573
+8,Magical Companions,Junikowo,Poznan,2385,2861,2661,2532,5277,4094,6611,4618
+9,Brave Waves,Bartodzieje,Bydgoszcz,2145,2889,2634,2516,5281,4109,6638,4537
+10,Dreamy Waves,Slawin,Lublin,2025,2915,2697,2494,5319,4112,6638,4614
+11,Bubbly Wonders,Jezyce,Poznan,2250,2867,2641,2457,5286,4125,6606,4565
+12,Creative Laughter,Lagiewniki-Borek Falecki,Krakow,2505,2846,2684,2455,5277,4128,6553,4626
+13,Sparkling Flowers,Krowodrza,Krakow,2415,2892,2718,2498,5281,4127,6553,4611
+14,Curious Cupcakes,Wzgorze Wolnosci,Bydgoszcz,2190,2880,2652,2524,5262,4089,6548,4617
+15,Snuggly Explorers,Piecki-Migowo,Gdansk,2430,2835,2672,2476,5295,4054,6630,4536
+16,Joyful Whispers,Borek,Wroclaw,2535,2922,2732,2470,5268,4051,6553,4578
+17,Sweet Buddies,Brynow-Osiedle Zgrzebnioka,Katowice,2205,2889,2720,2509,5305,4091,6583,4593
+18,Colorful Chicks,Wzgorze Wolnosci,Bydgoszcz,2190,2898,2720,2508,5328,4133,6542,4627
+19,Creative Wonders,Czuby Poludniowe,Lublin,2040,2915,2660,2491,5309,4054,6580,4587
+20,Gentle Wonders,Swoszowice,Krakow,2520,2854,2684,2493,5273,4058,6634,4542
+21,Brave Sunshine,Murcki,Katowice,2235,2913,2695,2467,5325,4118,6563,4563
+22,Happy Friends,Rataje,Poznan,2355,2859,2710,2528,5325,4054,6564,4583
+23,Radiant Sprinkles,Brynow-Osiedle Zgrzebnioka,Katowice,2205,2882,2694,2470,5301,4087,6546,4532
+24,Funny Bubbles,Praga Poludnie,Warszawa,2715,2894,2718,2508,5303,4054,6586,4621
+25,Creative Breezes,Gaj,Wroclaw,2520,2847,2695,2481,5267,4110,6565,4541
+26,Brave Twinkles,Przymorze Wielkie,Gdansk,2445,2919,2703,2510,5301,4085,6633,4610
+27,Enchanted Pebbles,Ujescisko-Lostowice,Gdansk,2415,2910,2701,2453,5326,4051,6562,4574
+28,Gleeful Glimmers,Wyzyny,Bydgoszcz,2205,2908,2686,2494,5296,4114,6540,4594
+29,Cozy Moonbeams,Kalinowszczyzna,Lublin,2070,2936,2728,2503,5315,4089,6566,4533
+30,Sunny Clouds,Grunwald,Poznan,2280,2854,2696,2478,5311,4052,6579,4546
+31,Magical Sprites,Golecino-Goclaw,Szczecin,2220,2886,2724,2538,5268,4102,6559,4577
+32,Dreamy Pals,Wyzyny,Bydgoszcz,2205,2939,2643,2468,5298,4116,6591,4574
+33,Gentle Whispers,Gumience,Szczecin,2115,2830,2704,2459,5333,4108,6577,4531
+34,Gleeful Cuddles,Wrotkow,Lublin,2085,2846,2708,2455,5336,4053,6577,4574
+35,Creative Cupcakes,Teofilow-Wielkopolska,Lodz,2205,2871,2634,2465,5303,4059,6594,4592
+36,Clever Puddles,Chojny-Dabrowa,Lodz,2160,2858,2660,2531,5318,4050,6591,4570
+37,Lively Discoverers,Turzyn,Szczecin,2175,2853,2674,2523,5267,4133,6612,4549
+38,Funny Sparklers,Pogodno,Szczecin,2130,2927,2670,2454,5274,4099,6545,4585
+39,Joyful Treasures,Srodmiecie,Lublin,1950,2832,2712,2468,5267,4117,6567,4569
+40,Funny Explorers,Chojny,Lodz,2235,2891,2677,2494,5329,4138,6602,4561
+41,Funny Sprites,Krzyki,Wroclaw,2415,2891,2712,2462,5286,4103,6540,4552
+42,Cheerful Sprinkles,Czechow-Poludniowy,Lublin,1980,2936,2720,2463,5297,4061,6630,4621
+43,Merry Blossoms,Wola,Warszawa,2805,2910,2652,2465,5291,4121,6637,4610
+44,Vivacious Sparklers,Widzew-Wschod,Lodz,2175,2852,2734,2502,5331,4113,6617,4571
+45,Friendly Wonders,Baluty Centrum,Lodz,2100,2891,2714,2452,5302,4115,6564,4587
+46,Kind Builders,Bartodzieje,Bydgoszcz,2145,2874,2678,2469,5333,4127,6584,4530
+47,Daring Blossoms,Ursynow,Warszawa,2730,2858,2720,2511,5322,4050,6606,4627
+48,Vivacious Gems,Golecino-Goclaw,Szczecin,2220,2918,2634,2474,5325,4095,6637,4590
+49,Little Pals,Chelm,Gdansk,2400,2848,2676,2463,5262,4051,6542,4568
+50,Cozy Journeys,Zawodzie,Katowice,2130,2870,2725,2509,5323,4084,6589,4590
+51,Giggly Whirlwinds,Jezyce,Poznan,2250,2930,2661,2506,5269,4124,6636,4539
+52,Joyful Waves,Golecino-Goclaw,Szczecin,2220,2904,2653,2479,5283,4057,6560,4566
+53,Daring Daisies,Czechow-Poludniowy,Lublin,1980,2832,2714,2468,5337,4097,6635,4601
+54,Inquisitive Bubbles,Praga Poludnie,Warszawa,2715,2888,2631,2500,5282,4110,6634,4537
+55,Creative Treasures,Stare Miasto,Krakow,2400,2831,2657,2532,5339,4062,6550,4628
+56,Colorful Sprites,Karlowice-Rozanka,Wroclaw,2460,2932,2651,2529,5288,4091,6558,4557
+57,Vivacious Hugs,Okole,Bydgoszcz,2235,2930,2686,2508,5274,4108,6607,4561
+58,Adventurous Clouds,Tatary,Lublin,1995,2914,2637,2496,5315,4133,6559,4575
+59,Caring Cupcakes,Wilda,Poznan,2265,2843,2639,2527,5328,4112,6597,4565
+60,Joyful Bubbles,Debniki,Krakow,2535,2866,2719,2452,5322,4124,6571,4620
+61,Precious Cupcakes,Czyzkowko,Bydgoszcz,2100,2895,2662,2456,5269,4099,6563,4624
+62,Charming Sprinkles,Przymorze Wielkie,Gdansk,2445,2932,2689,2537,5280,4102,6551,4614
+63,Gleeful Treasures,Wola,Warszawa,2805,2850,2715,2466,5304,4098,6618,4539
+64,Magical Glimmers,Chojny-Dabrowa,Lodz,2160,2846,2720,2490,5324,4058,6620,4609
+65,Colorful Pals,Olbin,Wroclaw,2430,2832,2686,2461,5321,4113,6633,4627
+66,Gleeful Companions,Giszowiec,Katowice,2190,2889,2644,2495,5292,4064,6634,4573
+67,Sunny Wishes,Srodmiescie,Warszawa,2775,2911,2699,2450,5328,4062,6591,4565
+68,Caring Rainbows,Olechow-Janow,Lodz,2220,2864,2708,2503,5318,4077,6565,4600
+69,Bouncy Waves,Stare Miasto,Szczecin,2235,2912,2693,2511,5321,4059,6589,4599
+70,Tiny Wishes,Gorniak,Lodz,2190,2871,2644,2472,5290,4074,6608,4599
+71,Kind Daisies,Ursynow,Warszawa,2730,2929,2728,2504,5267,4086,6603,4616
+72,Bouncy Pebbles,Piecki-Migowo,Gdansk,2430,2841,2655,2463,5262,4132,6589,4584
+73,Little Cupcakes,Olbin,Wroclaw,2430,2880,2653,2518,5281,4104,6588,4535
+74,Tiny Gems,Dab,Katowice,2145,2909,2731,2491,5300,4113,6632,4533
+75,Enchanted Pals,Borek,Wroclaw,2535,2876,2636,2516,5287,4117,6567,4538
+76,Playful Frogs,Chelm,Gdansk,2400,2929,2639,2499,5276,4086,6542,4601
+77,Cheerful Frogs,Chojny-Dabrowa,Lodz,2160,2836,2711,2475,5270,4090,6634,4620
+78,Silly Treasures,Srodmiescie,Gdansk,2460,2926,2643,2487,5287,4071,6554,4628
+79,Delightful Flowers,Winiary,Poznan,2370,2836,2716,2501,5269,4116,6564,4538
+80,Brave Magic,Przedmiescie Swidnickie,Wroclaw,2490,2847,2730,2512,5333,4071,6604,4535
+81,Playful Laughter,Debniki,Krakow,2535,2850,2685,2533,5275,4086,6638,4582
+82,Zany Friends,Pradnik Bialy,Krakow,2475,2927,2689,2515,5314,4069,6581,4616
+83,Clever Sprinkles,Dabie,Szczecin,2205,2855,2643,2529,5325,4111,6576,4595
+84,Sweet Sunbeams,Osiedle Witosa,Katowice,2220,2849,2725,2458,5262,4110,6544,4563
+85,Bubbly Twinkles,Wyzyny,Bydgoszcz,2205,2871,2658,2539,5322,4111,6569,4622
+86,Playful Explorers,Lagiewniki-Borek Falecki,Krakow,2505,2879,2698,2522,5335,4110,6630,4552
+87,Gleeful Dreamers,Osowa,Gdansk,2535,2834,2684,2465,5289,4136,6624,4544
+88,Silly Gems,Giszowiec,Katowice,2190,2928,2657,2457,5311,4093,6607,4561
+89,Precious Stars,Stare Miasto,Krakow,2400,2864,2685,2455,5273,4139,6571,4604
+90,Lively Clouds,Stare Miasto,Poznan,2295,2861,2716,2471,5323,4051,6633,4613
+91,Happy Daisies,Tatary,Lublin,1995,2863,2659,2480,5338,4108,6546,4595
+92,Enchanted Buddies,Piaski,Bydgoszcz,2220,2834,2691,2527,5312,4129,6559,4610
+93,Cheerful Rainbows,Ujescisko-Lostowice,Gdansk,2415,2920,2632,2525,5293,4136,6611,4627
+94,Adventurous Treasures,Gaj,Wroclaw,2520,2832,2653,2510,5311,4133,6597,4550
+95,Sparkling Discoverers,Osiedle Witosa,Katowice,2220,2882,2697,2513,5267,4082,6551,4533
+96,Lively Rainbows,Srodmiecie,Lublin,1950,2868,2703,2518,5277,4060,6621,4609
+97,Silly Sunbeams,Murcki,Katowice,2235,2854,2734,2458,5268,4135,6565,4587
+98,Joyful Glimmers,Bronowice,Krakow,2490,2870,2679,2532,5261,4094,6588,4619
+99,Gleeful Stars,Jezyce,Poznan,2250,2865,2703,2490,5319,4082,6541,4599
+100,Joyful Whirlwinds,Winiary,Poznan,2370,2887,2714,2489,5300,4083,6554,4578

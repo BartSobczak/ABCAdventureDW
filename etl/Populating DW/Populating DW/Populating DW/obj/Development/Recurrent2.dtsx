@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:refId="Package"
+  DTS:CreationDate="4/24/2024 12:25:56 AM"
+  DTS:CreationName="Microsoft.Package"
+  DTS:CreatorComputerName="SZYMON"
+  DTS:CreatorName="Szymon\szymo"
+  DTS:DTSID="{84FEB83C-67BA-468D-B4D7-3E273550F2F6}"
+  DTS:ExecutableType="Microsoft.Package"
+  DTS:LastModifiedProductVersion="16.0.5467.0"
+  DTS:LocaleID="1033"
+  DTS:ObjectName="Recurrent2"
+  DTS:PackageType="5"
+  DTS:VersionBuild="5"
+  DTS:VersionGUID="{2A30AE94-E1D8-425F-95E6-CB41746083B0}">
+  <DTS:Property
+    DTS:Name="PackageFormatVersion">8</DTS:Property>
+  <DTS:ConnectionManagers>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[LoadingTeacher_Employment.sql]"
+      DTS:CreationName="FILE"
+      DTS:DTSID="{874D9B8A-B0CB-4A03-8184-49B114C8A340}"
+      DTS:ObjectName="LoadingTeacher_Employment.sql">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectionString="C:\Users\szymo\OneDrive\Dokumenty\Studies\Semester 4\Data Warehouses\Lab5\scripts\LoadingTeacher_Employment.sql" />
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[SZYMON\DATAWAREHOUSE.ABC_AdventureDW]"
+      DTS:CreationName="OLEDB"
+      DTS:DTSID="{5B1E4BE9-E762-4784-8A32-1C31EB8398B6}"
+      DTS:ObjectName="SZYMON\DATAWAREHOUSE.ABC_AdventureDW">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectRetryCount="1"
+          DTS:ConnectRetryInterval="5"
+          DTS:ConnectionString="Data Source=SZYMON\DATAWAREHOUSE;Initial Catalog=ABC_AdventureDW;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-Recurrent2-{5B1E4BE9-E762-4784-8A32-1C31EB8398B6}SZYMON\DATAWAREHOUSE.ABC_AdventureDW;Auto Translate=False;" />
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+  </DTS:ConnectionManagers>
+  <DTS:Variables />
+  <DTS:Executables>
+    <DTS:Executable
+      DTS:refId="Package\Load Table - Teacher_Employment"
+      DTS:CreationName="Microsoft.ExecuteSQLTask"
+      DTS:Description="Execute SQL Task"
+      DTS:DTSID="{6129735E-E609-41E8-92DB-A5D45A0CF9C1}"
+      DTS:ExecutableType="Microsoft.ExecuteSQLTask"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Load Table - Teacher_Employment"
+      DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2022; © 2022 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+      DTS:ThreadHint="0">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <SQLTask:SqlTaskData
+          SQLTask:Connection="{5B1E4BE9-E762-4784-8A32-1C31EB8398B6}"
+          SQLTask:BypassPrepare="False"
+          SQLTask:SqlStmtSourceType="FileConnection"
+          SQLTask:SqlStatementSource="LoadingTeacher_Employment.sql" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+      </DTS:ObjectData>
+    </DTS:Executable>
+  </DTS:Executables>
+  <DTS:DesignTimeProperties><![CDATA[<?xml version="1.0"?>
+<!--This CDATA section contains the layout information of the package. The section includes information such as (x,y) coordinates, width, and height.-->
+<!--If you manually edit this section and make a mistake, you can delete it. -->
+<!--The package will still be able to load normally but the previous layout information will be lost and the designer will automatically re-arrange the elements on the design surface.-->
+<Objects
+  Version="8">
+  <!--Each node below will contain properties that do not affect runtime behavior.-->
+  <Package
+    design-time-name="Package">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph">
+        <NodeLayout
+          Size="242.4,41.6"
+          Id="Package\Load Table - Teacher_Employment"
+          TopLeft="293.57143357092,98.6470602070172" />
+      </GraphLayout>
+    </LayoutInfo>
+  </Package>
+</Objects>]]></DTS:DesignTimeProperties>
+</DTS:Executable>
